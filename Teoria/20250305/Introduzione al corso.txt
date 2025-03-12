@@ -1,0 +1,71 @@
+Due professori. Prima parte professor Cherchi e seconda parte professoressa Massa.
+Ci sono anche due tutor.
+g.cherchi@unica.it, silviam.massa@unica.it
+Ufficio C. secondo piano palaScie, ufficio M. primo piano palaScie
+C. ricerca compgraph, M. ricerca AI per la medicina
+I tutor (Fabio Pili e Michele Faedda) non hanno un orario di ricevimento
+Oggi siamo in laboratorio, ma non è una lezione di laboratorio, è una limitazione dell'orario
+
+Impareremo a fare layout decente per pagine web, vediamo lato server e client, salvare dati
+
+Lezioni di laboratorio: mercoledì mattina 11-13:30 (adesso) in labT e labM insieme, a meno che non comincino a mancare tutti
+Lezioni di laboratorio: giovedì pomeriggio in aula magna di matematica
+Materiale diattico, avvisi, alcuni esami: elearning
+Frequenza minima: 60% teoria, 80% lab
+
+Nella pagina Elearning del corso c'è un Forum Studenti. Domande ai professori e risposte possono essere viste da tutti
+Per le email, oggetto [FPW]
+Non leggono niente di ciò che si scrive su Teams, lo usano solo per le videochiamate tra i due laboratori
+
+Esame: due parti, teoria e pratica. Entrambe 50% del voto
+Teoria scritto, pratica progetto. Progetto = realizzazione di applicazione web
+
+I professori non hanno una lista di studenti che seguono il corso
+Per essere iscritto, devi iscriverti alla piattaforma elearning del corso entro il 31 Maggio
+
+Teoria: non open book, sia multipla che aperta che V/F. Nelle aperte si ragiona, si descrivono concetti, si risolvono problemi (tipo richieste di un cliente)
+2 appelli a giugno, 1 a luglio, 1 a settembre, 1 a gennaio e 1 a febbraio. Le date sono decise dal Consiglio, non dai professori, se vanno cambiate devono passare per tanti passaggi di persona
+Il voto di teoria sufficiente si rifiuta una sola volta
+
+Progetto: realizzazione di un'applicazione web, attività di gruppo
+Le specifiche non sono tutte alla fine del corso, vengono date a moduli durante il corso
+Le specifiche sono specifiche tecniche: quali pagine ci vanno (homepage, login, prodotti, etc), che layout (3 colonne etc), che funzionalità, no vincoli sul tema
+Le speficihe vanno seguite alla lettera, perché su quelle si basa la valutazione:
+    se il logo va in alto a destra, è perché è difficile, non per estetica
+Il progetto ha 1 mese di tempo di correzione. Agosto e dicembre sono vacanze anche per i professori
+
+Se ognuno usa il proprio framework e le proprie metodologie, casino, quindi omologati ai professori
+Valutano quello che impari, non quello che sai fare per conto tuo
+No facilitatori (framework, librerie), sono scritte nelle slide
+
+Se usi GitHub, usa un repository PRIVATO, altrimenti è essenzialmente copiare
+Puoi metterlo pubblico a partire dal primo febbraio 2026
+
+Gruppi da 2 a 4 persone, nome del gruppo, scegli un leader (il comunicatore), gruppo anche quello entro il 31 Marzo
+Se ho scritto maggio prima, era marzo
+
+Ci sono casi in cui serve un orale, magari se ci sono dubbi sullo scritto, o magari se il progetto sembra copiato (diventa simile all'orale di PR1)
+Sul progetto, magari ti chiedono di spiegarlo, o di aggiungere una funzionalità per vedere se lo sai fare
+Ma se ti comporti bene non ce n'è bisogno
+
+50% voto di teoria. È individuale
+50% voto del progetto. È uguale per ogni membro del gruppo, a meno di casi eccezionali
+Il voto del progetto non può essere rifiutato. Consegnalo quando sei sicuro
+Per superare l'esame, entrambe devono avere un voto sufficiente. ENTRAMBE. Non la media
+
+Parziali: 16 Aprile e 28 Maggio
+Non riescono a correggere il secondo parziale entro il primo appello, quindi equivale al primo appello
+
+PUNTI BONUS
+Se superi la teoria coi parziali: +1 punto
+Progetto entro fine giugno: +1 punto
+Progetto entro fine luglio: +0.5 punti
+
+Questo esame non compare per adesso sul libretto di Esse3
+Esistono tre categorie di studenti
+* Ce l'hai già nel libretto: ok
+* Non ce l'hai e sei di Informatica: segui, fai tutto e poi ti compare
+* Non ce l'hai e non sei di Informatica: chiedi in segreteria
+
+Password elearning: ProgrWeb25
+C'è anche il gruppo Telegram per le comunicazioni rapide di utilità immediata
