@@ -101,3 +101,7 @@ Sicuramente in tutte le pagine avremo il logo, il titolo, e la navbar, quindi do
 * Facciamo la stessa cosa con Header. Anzi importiamo Navbar in Header e mettiamo la navbar dentro l'header.
 
 * Mettiamo l'Header in tutte le pagine. Adesso se lo modifichiamo nel suo file, le modifiche si applicano in tutte le viste (*View*).
+
+Adesso, ha senso dover importare tutto in ogni pagina? No, il senso è che lo facciamo una volta e abbiamo finito. Li importiamo dentro `App.vue`. Adesso nei file in questa cartella non l'ho fatto, perché ho già chiuso l'host locale, ma insomma si fa così.
+
+Ci sono esercizi da fare.
