@@ -1,0 +1,24 @@
+@import './base.css';
+
+body {
+    background: linear-gradient(to bottom, var(--white) 40%, var(--secondary));
+}
+
+nav {
+    background: var(--secondary);
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: var(--primary);
+}
+
+header {
+    background: radial-gradient(circle, var(--primary) 35%, var(--tertiary));
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+    font-weight: bold;
+}
