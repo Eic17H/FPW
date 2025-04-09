@@ -3,6 +3,17 @@ import Header from '../components/Header.vue'
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 
+<style>
+    .newsCard {
+        background: var(--white);
+        padding: 15px;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    }
+</style>
+
 <template>
     <body>
         <Header/>

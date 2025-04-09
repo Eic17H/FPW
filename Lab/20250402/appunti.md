@@ -12,6 +12,7 @@ Facciamo uno stile per un solo elemento usandone l'indice:
     font-weight: bold;
     color: var(--white);
     font-size: 20px;
+    border-radius: 10px;
 }
 ```
 `background` e `background-color` sono equivalenti.
