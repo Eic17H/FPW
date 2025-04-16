@@ -114,7 +114,7 @@ th:last-child {
 
 Su table. Quando collassano, i bordi devono avere il comportamento: collassare
 ```
-table-collapse: colapse;
+border-collapse: colapse;
 ```
 
 ```

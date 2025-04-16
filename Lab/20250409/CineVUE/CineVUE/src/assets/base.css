@@ -1,0 +1,16 @@
+:root {
+    --primary: #1c97e6;
+    --secondary: #def0fb;
+    --tertiary: #80c6f2;
+    --white: #ffffff;
+    --black: #4c5052;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url(./fonts/Manrope-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: Manrope, sans-serif;
+}
